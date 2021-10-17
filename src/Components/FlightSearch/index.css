@@ -1,0 +1,9 @@
+.content {
+  width: 700px;
+}
+
+.content th,
+.content td {
+  text-align: center;
+  width: 25%;
+}
